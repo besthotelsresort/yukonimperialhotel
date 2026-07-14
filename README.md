@@ -1,0 +1,2 @@
+# yukonimperialhotel
+Static site: yukonimperialhotel
